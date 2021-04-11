@@ -1,0 +1,170 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'zh' Physical Memory: 24418 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Dev/UnityProjects/MyUnityTestProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+6914
+Successfully changed project path to: D:/Dev/UnityProjects/MyUnityTestProject
+D:/Dev/UnityProjects/MyUnityTestProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Dev/UnityProjects/MyUnityTestProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.5638
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002335 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.097 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.537100 ms (FindLiveObjects: 0.191600 ms CreateObjectMapping: 0.094700 ms MarkObjects: 2.110800 ms  DeleteObjects: 0.138900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3b1c66dd54388d6193df8bdbf18c88') in 0.008903 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.856671 seconds.
+  path: Assets/Art/Birds/BeekRedClosed1.png
+  artifactKey: Guid(961de39bc77b0e445977faf476142b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/BeekRedClosed1.png using Guid(961de39bc77b0e445977faf476142b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b18780db74b44a0e671a5ce0fb9cee') in 0.229557 seconds
+  Import took 0.236418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/Birds/BeekRedOpen2.png
+  artifactKey: Guid(0fa51d39f6960854fb7882c09580546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/BeekRedOpen2.png using Guid(0fa51d39f6960854fb7882c09580546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c25a17a2cc9a3865227486a3024419') in 0.013400 seconds
+  Import took 0.016708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Art/Birds/MeekGreenOpen1.png
+  artifactKey: Guid(ac8ae290dc70f3343b3ad7530587a83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/MeekGreenOpen1.png using Guid(ac8ae290dc70f3343b3ad7530587a83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e934b0d150d766585a4753d52c5012') in 0.018718 seconds
+  Import took 0.022634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Art/Birds/MeekGreenClosed2.png
+  artifactKey: Guid(5c31d9af83af439448d88e311345b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/MeekGreenClosed2.png using Guid(5c31d9af83af439448d88e311345b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d6b47e120fb759e6e5cb1ac3c09771') in 0.016886 seconds
+  Import took 0.020128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Art/Birds/BeekRedOpen1.png
+  artifactKey: Guid(354e3b168c253dd4fb6a80ed1dad7358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/BeekRedOpen1.png using Guid(354e3b168c253dd4fb6a80ed1dad7358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0043ef38179a1157f0390c7287c61a54') in 0.015932 seconds
+  Import took 0.019220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Art/Birds/MeekGreenClosed1.png
+  artifactKey: Guid(bad3d5cef29c0e941bcba6e9c538e8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/MeekGreenClosed1.png using Guid(bad3d5cef29c0e941bcba6e9c538e8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd923b34950ed6e8fa0c824068e69132') in 0.014671 seconds
+  Import took 0.018433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/Birds/BeekRedClosed2.png
+  artifactKey: Guid(bbafdc812f598d145bc33ae722fc38fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/BeekRedClosed2.png using Guid(bbafdc812f598d145bc33ae722fc38fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98911709724236bb90a687b2e2cc6d1') in 0.014961 seconds
+  Import took 0.018591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Art/Birds/MeekGreenOpen2.png
+  artifactKey: Guid(e0b06f8373ac5b149b762c54c195f4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Birds/MeekGreenOpen2.png using Guid(e0b06f8373ac5b149b762c54c195f4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2cb30e0ab6c338eef87d003ef2289a') in 0.017260 seconds
+  Import took 0.020867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.763825 seconds.
+  path: Assets/Art/Environment/Summer Background.png
+  artifactKey: Guid(0b8bbf5199d0038458f583e0aa7b88f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/Summer Background.png using Guid(0b8bbf5199d0038458f583e0aa7b88f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df138f70371b7f70ff6c0cb7e241cbbf') in 0.029538 seconds
+  Import took 0.037494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Art/Environment/Summer Ground.png
+  artifactKey: Guid(ff1562ecb64bba045ba4a05c088e28ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/Summer Ground.png using Guid(ff1562ecb64bba045ba4a05c088e28ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d9b9236eccb4e01f5101eb4464d2fd') in 0.020541 seconds
+  Import took 0.024044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002687 seconds.
+  path: Assets/Art/Environment/Summer Ground.png
+  artifactKey: Guid(ff1562ecb64bba045ba4a05c088e28ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Environment/Summer Ground.png using Guid(ff1562ecb64bba045ba4a05c088e28ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d9b9236eccb4e01f5101eb4464d2fd') in 0.015270 seconds
+  Import took 0.018527 seconds .
+
